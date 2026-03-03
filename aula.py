@@ -1,5 +1,0 @@
-print('Olá, Mundo!')
-print('Meu nome é Everton e estou aprendendo Python.')
-print('Python é uma linguagem de programação versátil e fácil de aprender.')
-print('Com Python, posso criar aplicativos, analisar dados e muito mais!')
-print('Alterei o repositorio remoto.')
